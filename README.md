@@ -9,8 +9,6 @@
   var wid = '492444';
 </script>
 <script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
-<  meta   name = "author"   content = "ADRAW"  />
-Al aire libre
 <link rel = "hoja de estilo" href = "formularios.css">
     
     <head>
