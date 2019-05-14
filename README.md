@@ -26,7 +26,7 @@
 
             </nav>
             <nav class="h47">
-                    <label for="Email">Correo Electronico</label>
+                    <label for="password">Contraseña</label>
                     <input type="password" placeholder="PASSWORD" maxlength="12" name="password" id="password">
     
                 </nav>
