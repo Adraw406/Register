@@ -1,19 +1,18 @@
-
 <html lang="es">
     <meta charset="utf-8"/>
     <title>
         REGISTRACION
     </title>
-<meta name="author" content= "ADRAW"/>
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', '');
+    <script type="text/javascript">
+  var uid = '237705';
+  var wid = '492444';
 </script>
-<link rel="stylesheet" href="formularios.css">
+<script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
+<  meta   name = "author"   content = "ADRAW"  />
+Al aire libre
+<link rel = "hoja de estilo" href = "formularios.css">
+    
     <head>
         <body>
             <nav class="h45">
