@@ -13,7 +13,7 @@
 
   gtag('config', '');
 </script>
-<link rel="stylesheet" href="formulario.css">
+<link rel="stylesheet" href="formularios.css">
     <head>
         <body>
             <nav class="h45">
