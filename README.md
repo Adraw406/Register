@@ -11,7 +11,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-139879846-1');
+  gtag('config', '');
 </script>
 <link rel="stylesheet" href="formulario.css">
     <head>
