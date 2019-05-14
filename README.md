@@ -25,6 +25,11 @@
                 <input type="email" placeholder="EMAIL" maxlength="30" name="emali" id="email">
 
             </nav>
+            <nav class="h47">
+                    <label for="Email">Correo Electronico</label>
+                    <input type="password" placeholder="PASSWORD" maxlength="12" name="password" id="password">
+    
+                </nav>
             
                     
         
