@@ -9,7 +9,7 @@
   var wid = '492444';
 </script>
 <script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
-<link rel = "hoja de estilo" href = "formularios.css">
+<link rel = "hoja de estilo" href = "formulario.css">
     
     <head>
         <body>
