@@ -13,6 +13,7 @@
     
     <head>
         <body>
+        <form action="">
             <nav class="h45">
                 <label for="nombre"> Nombre</label>
                 <input type="text" placeholder="NOMBRE" maxlength="10" name="nombre" id="nombre">
@@ -27,6 +28,7 @@
                     <input type="password" placeholder="PASSWORD" maxlength="12" name="password" id="password">
     
                 </nav>
+                </form>
             
                     
         
