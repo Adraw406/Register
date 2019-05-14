@@ -1,6 +1,7 @@
 body {
-    width: 80% ; 
     background: blue;
+    bacgound-attachment: 100vw 100vh;
+    margin:0;
     
     .form {
         with:800px;
