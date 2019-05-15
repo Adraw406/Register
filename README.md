@@ -13,7 +13,7 @@
     <head>
         <body>
                   <form action="">
-            <div class="d34">
+            <div class="d35">
                 <nav class="h45">
                 <label for="nombre"> Nombre</label>
                 <input type="text" placeholder="NOMBRE" maxlength="10" name="nombre" id="nombre">
