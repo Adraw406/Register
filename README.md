@@ -1,7 +1,6 @@
 <html lang="es">
     <meta charset="utf-8"/>
     <title>
-       
        REGISTRARSE
     </title>
 
