@@ -1,30 +1,32 @@
+  
 body {
     background: blue;
+    margin: 0%;
     bacgound-attachment: 100vw 100vh;
-    margin:0;
-    
-    .form {
-        with:800px;
-        margin:auto;
-        background:orange;
-        padiding: 25px 35px;
+    padding: 110px 350px;
+     }
+.header  {
+   
 }
+
 .h45 {
-    margin: 40px 100px;
-    width: 56%;
+   margin: 40px 100px;
+    width: 100%;
  }
 
  .h46 {
-    margin: 40px 100px;
-    width: 56%;
+   margin: 40px 100px;
+    width: 100%;
  }
  .h47 {
-    margin: 40px 100px;
-    width: 56%;
+   margin: 40px 100px;
+    width: 100%;
+    border-radius: 15%;
  }
-    .h48 {
-    margin: 10px 30px;
-    width: 40%;
- }
+ .h48 {
+   background: yellow;
+   margin: 40px 100px;
+   border-radius: 0px;
+}
      
     
