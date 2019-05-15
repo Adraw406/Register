@@ -30,7 +30,7 @@
                                     <label for=""></label>
                                     <input type="button" value="REGISTRAR">
                                 </nav>
-                        </nav>
+                        </div>
                             </form>
                 </header>
             
