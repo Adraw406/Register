@@ -1,7 +1,7 @@
 <html lang="es">
     <meta charset="utf-8"/>
     <titlle>
-        REGISTER
+        REGISTRARSE
     </title>
 
     <script type="text/javascript">
