@@ -1,7 +1,7 @@
 <html lang="es">
     <meta charset="utf-8"/>
     <titlle>
-        
+        REGISTER
     </title>
 
     <script type="text/javascript">
