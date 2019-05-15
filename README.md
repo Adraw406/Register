@@ -9,7 +9,6 @@
 </script>
 <script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
 <link rel="stylesheet" href="formulario.css">
-    
     <head>
         <body>
                   <form action="">
