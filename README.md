@@ -1,8 +1,5 @@
 <html lang="es">
     <meta charset="utf-8"/>
-    <title>
-       REGISTRARSE
-    </title>
     <script type="text/javascript">
   var uid = '237705';
   var wid = '492444';
