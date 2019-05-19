@@ -8,6 +8,9 @@
 <link rel="stylesheet" href="formulario.css">
     <head>
         <body>
+            <nav class="d34">
+<h1> Inicia Secion o registrate</h1>
+</nav>
                   <form action="">
             <div class="d35">
                 <nav class="h45">
