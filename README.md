@@ -9,7 +9,6 @@
         <meta charset="UTF-8">
 <meta lang="es">
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-<link rel=" shorcut icon " type=" image/x-icon " href="sfglogo.ico">
 <link rel="stylesheet" href="formulario.css">
 <title> Singup </title> 
     </head>
@@ -24,10 +23,12 @@
  <input type="Password"  name="Password" placeholder="PASSWORD" maxlength="18">
  <input type="password" placeholder="Confirm Password" maxlength="18" name="Confirm Password">
  <input type="submit" value="Send">
-   </div>
+   
 <nav class="t79">
 <span><a href="INICIARSECION.php">LOGIN</a></span>
 </nav>
-</form>
+<form>
+</div>
+
   </body>
   </html>
