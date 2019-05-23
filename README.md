@@ -10,7 +10,7 @@
 <meta lang="es">
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 <link rel=" shorcut icon " type=" image/x-icon " href="sfglogo.ico">
-<link rel="stylesheet" href="css/RI.css">
+<link rel="stylesheet" href="formulario.css">
 <title> Singup </title> 
     </head>
       <body>
