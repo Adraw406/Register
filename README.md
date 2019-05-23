@@ -1,5 +1,4 @@
 <html lang="es">
-    <meta charset="utf-8"/>
     <script type="text/javascript">
   var uid = '237705';
   var wid = '492444';
@@ -7,30 +6,29 @@
 <script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
 <link rel="stylesheet" href="formulario.css">
     <head>
-        <body>
-            <nav class="d34">
-<h1> Inicia Secion o registrate</h1>
-</nav>
-                  <form action="">
-            <div class="d35">
-                <nav class="h45">
-                <label for="nombre"> Nombre</label>
-                <input type="text" placeholder="NOMBRE" maxlength="10" name="nombre" id="nombre">
-            </nav>
-            <nav class="h46">
-                <label for="Email">Correo Electronico</label>
-                <input type="email" placeholder="EMAIL" maxlength="30" name="emali" id="email">
-            </nav>
-            <nav class="h47">
-                    <label for="Password">Password</label>
-                    <input type="Password" placeholder="PASSWORD" maxlength="12" name="Password" id="Password">
-                </nav>
-                <nav class="h48">
-                    <label for=""></label>
-                    <input type="button" value="REGISTRAR">
-                </nav>
-                                </div>
-                            </form>
-        </body>
+        <meta charset="UTF-8">
+<meta lang="es">
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+<link rel=" shorcut icon " type=" image/x-icon " href="sfglogo.ico">
+<img src="sfglog.jpg" alt="IMGEN SFG" title="IMAGEN SFG"/>
+<link rel="stylesheet" href="css/RI.css">
+<title> Singup </title> 
     </head>
-</html>
+      <body>
+     <nav class="b34">
+     <h1>Singup</h1>
+</nav>
+<div class="p78">
+ <form action="REGISTRARSE.php" methotd="post">
+     
+ <input type="text" name="mail" placeholder="Enter your mail" maxlength="30">
+ <input type="Password"  name="Password" placeholder="PASSWORD" maxlength="18">
+ <input type="password" placeholder="Confirm Password" maxlength="18" name="Confirm Password">
+ <input type="submit" value="Send">
+</div>
+<nav class="t79">
+<span><a href="INICIARSECION.php">LOGIN</a></span>
+</nav>
+</form>
+  </body>
+ </html>
