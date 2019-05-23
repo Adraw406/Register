@@ -27,7 +27,7 @@
 </div>
 <nav class="t79">
 <span><a href="INICIARSECION.php">LOGIN</a></span>
-</nav>
+</na>
 </form>
   </body>
  </html>
