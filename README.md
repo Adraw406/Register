@@ -20,7 +20,6 @@
 </nav>
 <div class="p78">
  <form action="REGISTRARSE.php" methotd="post">
-     
  <input type="text" name="mail" placeholder="Enter your mail" maxlength="30">
  <input type="Password"  name="Password" placeholder="PASSWORD" maxlength="18">
  <input type="password" placeholder="Confirm Password" maxlength="18" name="Confirm Password">
@@ -29,6 +28,5 @@
 <nav class="t79">
 <span><a href="INICIARSECION.php">LOGIN</a></span>
 </nav>
-</form>
   </body>
  </html>
