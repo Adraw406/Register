@@ -7,7 +7,6 @@
 <link rel="stylesheet" href="formulario.css">
     <head>
         <meta charset="UTF-8">
-<meta lang="es">
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="formulario.css">
 <title> Singup </title> 
@@ -29,6 +28,5 @@
 </nav>
 <form>
 </div>
-
   </body>
   </html>
