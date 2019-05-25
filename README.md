@@ -11,23 +11,15 @@
 <link rel="stylesheet" href="formulario.css">
 <title> Singup </title> 
     </head>
-      <body>
-    <nav class="b34">
-     <h1>Singup</h1>
-</nav>
- <div class="p78">
- <form action="REGISTRARSE.php" methotd="post">
- <input type="text" name="mail" placeholder="Enter your mail" maxlength="30">
- <input type="Password"  name="Password" placeholder="PASSWORD" maxlength="18">
- <input type="password" placeholder="Confirm Password" maxlength="18" name="Confirm Password">
- <input type="submit" value="Send">
-   
-<nav class="t79">
-<span>
-    <a href="">LOGIN</a>
-    </span>
-</nav>
-<form>
-</div>
+<body>
+     <h1>LOGIN</h1>
+    <div class="t78">
+          <input type="text" name="email" placeholder="Enter your email" maxlength="50">
+          <input type="password" name="password" placeholder="Enter your password" maxlength="50">
+         <input type="submit" value="Send">
+              <a href="https://adraw406.github.io/LOGIN-SFG/#sign-up">
+                   <h2>LOGIN</h2>
+              </a>
+     </div>
   </body>
-  </html>
+ </html>
