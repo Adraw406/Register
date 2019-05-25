@@ -1,76 +1,57 @@
-
 body {
-    background: orange;
+    background: rgb(0, 53, 167) ;
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
-input[type="text"], input[type="password"], input[type="Password"] {
+input[type="text"], input[type="password"]
+{
     outline: none;
     display: block;
-    width: 300px ;
+    width: 240px ;
     border-radius: 3px;
     border: 1px solid rgba(238, 238, 238, 0.726);
-    margin: 20px auto;
-    padding: 10px;
+    margin: 25px auto;
+    padding: 20px;
 }
-input[type="submit"] {
-    padding: 10px;
+input[type="submit"] 
+{
+    padding: 20px;
     background:  rgb(255, 145, 0);
-    width: 300px;
-    margin: 20px auto;
+    width: 85px;
+    margin: 28px auto;
     margin-top: 0;
     border: 0;
     border-radius: 3px;
     cursor: pointer;
+    color:white;
 }
-input[type="submit"] :hover {
+input[type="submit"] :hover
+{
     background-color: rgb(255, 0, 0);
 }
-.d34 {
-    font-size: 150%;
-    color: white;
-    margin: 10px 500px;
-}
-.t78 {
-    background: rgb(209, 0, 0);
-    padding: 30px;
-    width: 350px;
-    margin: -5px 500px;
+
+ .t78
+{
+    background: rgb(86, 201, 143);
+ width:380;
+    height:350px
+    padding:250px;
     border-radius: 4px;
 }
-  .t79 {
-    text-decoration: none;
-    background-color: rgb(255, 145, 0);
-    padding: 10px;
-    margin:20px 510px;
-    border-radius: 3px;
-    color: white;
-    cursor: pointer;
-
-  }
-    img {
+h1 { 
+             color:white;
+        }
+ img {
         width: 80px;
         height: 80px ;
         border-radius: 10px;
         margin:center ;
-
-        }
-        .b34 {
-            font-size: 150%;
-            color: white;
-            margin: 10px 500px;
-        }
-        .p78 {
-            background: rgb(209, 0, 0);
-            padding: 30px;
-            width: 350px;
-            margin: -5px 500px;
-            border-radius: 4px; 
-        }
-         h1 { 
-             color:text;
-
-        }
-    
+}
+h2
+{
+    text-decoration: none;
+    background:rgb(255, 145, 0);
+    color: white;
+}
