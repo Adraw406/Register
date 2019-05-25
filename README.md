@@ -15,7 +15,7 @@
           <input type="text" name="email" placeholder="Enter your email" maxlength="50">
           <input type="password" name="password" placeholder="Enter your password" maxlength="50">
          <input type="submit" value="Send">
-              <a href="https://adraw406.github.io/Register/">
+              <a href="https://adraw406.github.io/LOGIN-SFG/#sign-up">
                    <h2>Sign up</h2>
               </a>
      </div>
