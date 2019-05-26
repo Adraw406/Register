@@ -13,7 +13,7 @@
         <form action="REGISTER.php" method="post">
          <h1>LOGIN</h1>
     <div class="t78">
-          <input type="text" name="email" placeholder="Enter your email" maxlength="50" required>
+          <input type="email" name="email" placeholder="Enter your email" maxlength="50" required>
           <input type="password" name="password" placeholder="Enter your password" maxlength="50" required>
          <input type="submit" value="Send" required>
               <a href="https://adraw406.github.io/LOGIN-SFG/#sign-up">
