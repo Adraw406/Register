@@ -11,13 +11,13 @@
     </head>
     <body>
         <form action="REGISTER.php" method="post">
-         <h1>LOGIN</h1>
+         <h1>SIGN UP</h1>
     <div class="t78">
           <input type="email" name="email" placeholder="Enter your email" maxlength="50" required>
           <input type="password" name="password" placeholder="Enter your password" maxlength="50" required>
          <input type="submit" value="Send" required>
               <a href="https://adraw406.github.io/LOGIN-SFG/#sign-up">
-                   <h2>Sign up</h2>
+                   <h2>LOGIN</h2>
               </a>
      </div>
         </form>
