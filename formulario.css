@@ -37,7 +37,7 @@ input[type="submit"] :hover
     background:rgb(86, 201, 143);
    padding: 30px;
    width: 380px;
-   margin: -5px 340px;
+   margin: -5px center;
    border-radius: 4px; 
         
 }
