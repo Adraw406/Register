@@ -10,7 +10,7 @@
         <title> Singup </title> 
     </head>
     <body>
-        <form action="REGISTER.php">
+        <form action="REGISTER.php" method="post">
          <h1>LOGIN</h1>
     <div class="t78">
           <input type="text" name="email" placeholder="Enter your email" maxlength="50">
