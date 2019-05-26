@@ -10,5 +10,4 @@ try
 catch (PDOExeption $e) {
 die('Connected falied':'.$e->getMessage());
 }
-
 ?>
