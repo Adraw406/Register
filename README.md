@@ -10,6 +10,7 @@
         <title> Singup </title> 
     </head>
     <body>
+        <form action="">
          <h1>LOGIN</h1>
     <div class="t78">
           <input type="text" name="email" placeholder="Enter your email" maxlength="50">
@@ -19,6 +20,7 @@
                    <h2>Sign up</h2>
               </a>
      </div>
+        </form>
     </body>
 </html>
     
