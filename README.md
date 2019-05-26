@@ -1,5 +1,5 @@
 <?php 
-require 'basededatos.php';
+require 'basededatos.php2';
 ?>
 <html>
     <meta charset="UTF-8">
