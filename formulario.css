@@ -37,7 +37,7 @@ input[type="submit"] :hover
     background:rgb(86, 201, 143);
    padding: 30px;
    width: 380px;
-   margin: -5px 340px;
+   margin: -5px 310px;
    border-radius: 4px; 
         
 }
@@ -56,5 +56,5 @@ h2
     background:rgb(255, 145, 0);
     color: white;
     whidth:50px 60px;
-    bborder-radius:3px;
+    border-radius:3px;
 }
