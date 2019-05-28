@@ -1,5 +1,7 @@
 <?php 
 require 'basededatos.php';
+if (!empty($_POST['email'] )){
+}
 ?>
 <html>
     <meta charset="UTF-8">
