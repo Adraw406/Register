@@ -1,13 +1,12 @@
-<?php
-$server='localhost';
-  $username='root';
-  $password='';
- $database='php_login_basededatos';
-try
+<?php 
+$SERVER ='localhost';
+$USERNAME='root';
+$password='';
+$database='php_login_basededatos';
 
-  $conn=new PDO("mysql:host=$server";dbname=$database;",$username,$password);
-} 
-catch (PDOExeption $e) {
-die('Connected falied':'.$e->getMessage());
+try {
+  $conn= new PDO("mysql:host=$SERVER;dbname=$database;",$USERNAME,$password);
+} catch (PDOExeption $e) {
+  die ('Connected failed: '.$e->getMessage());
 }
 ?>
